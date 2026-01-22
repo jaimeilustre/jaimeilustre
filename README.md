@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**jaimeilustre/jaimeilustre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jaime, a **Software Engineering student at Codam** with a background in **finance and business analysis**. I transitioned into software engineering after completing a Master’s degree in Sustainable Finance and now focus on building robust, well-structured software while continuously improving my problem-solving and engineering skills.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on software engineering projects as part of my studies at Codam
+- 🌱 I’m currently learning core computer science concepts, algorithms, and low-level programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:  
+  - Email: jaimeilustre@yahoo.com  
+  - LinkedIn: https://linkedin.com/in/jaime-ilustre-81289a201
+  - Phone: +31643707594
+
+### 🛠 Technical Skills
+
+- **Programming Languages:** C, C++, JavaScript, TypeScript, Python  
+- **Computer Science & Software Engineering:**  
+  Data Structures, Algorithms, Network Programming, Computer Graphics, System Programming  
+- **Frontend:** React, HTML, CSS, SCSS, Tailwind, Bootstrap  
+- **Backend:** Node.js, Express  
+- **Databases:** MongoDB, SQL  
+- **Systems & Infrastructure:** System Administration  
+- **Tools & Practices:** Git, GitHub, REST APIs, Token-Based Authentication
+
