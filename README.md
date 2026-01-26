@@ -8,7 +8,6 @@ I'm Jaime, a **Software Engineering student at Codam** with a background in **fi
 - 📫 How to reach me:  
   - Email: jaimeilustre@yahoo.com  
   - LinkedIn: https://linkedin.com/in/jaime-ilustre-81289a201
-  - Phone: +31643707594
 
 ### 🛠 Technical Skills
 
