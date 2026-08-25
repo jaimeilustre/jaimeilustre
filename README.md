@@ -11,12 +11,12 @@ I'm Jaime, a **Software Engineering student at Codam** with a background in **fi
 
 ### 🛠 Technical Skills
 
-- **Programming Languages:** C, C++, JavaScript, TypeScript, Python  
+- **Programming Languages:** C, C++, C#, JavaScript, TypeScript, Python  
 - **Computer Science & Software Engineering:**  
   Data Structures, Algorithms, Network Programming, Computer Graphics, System Programming  
 - **Frontend:** React, HTML, CSS, SCSS, Tailwind, Bootstrap  
-- **Backend:** Node.js, Express  
+- **Backend:** Node.js, Express, .NET  
 - **Databases:** MongoDB, SQL  
 - **Systems & Infrastructure:** System Administration  
-- **Tools & Practices:** Git, GitHub, REST APIs, Token-Based Authentication
+- **Tools & Practices:** Git, GitHub, Docker, REST APIs, Token-Based Authentication
 
